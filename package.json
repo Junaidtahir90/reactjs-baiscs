@@ -19,7 +19,8 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.10.1",
